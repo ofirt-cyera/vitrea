@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/ofirt-cyera/vitrea/issues"
   },
-  "homepage": "https://github.com/ofirt-cyera/vitrea#readme"
+  "homepage": "https://github.com/ofirt-cyera/vitrea#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "eslint": "^9.23.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
 }
