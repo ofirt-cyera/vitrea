@@ -21,6 +21,9 @@
     "url": "https://github.com/ofirt-cyera/vitrea/issues"
   },
   "homepage": "https://github.com/ofirt-cyera/vitrea#readme",
+  "dependencies": {
+    "vitrea-client": "^0.0.9"
+  },
   "devDependencies": {
     "@types/node": "^22.13.14",
     "eslint": "^9.23.0",
